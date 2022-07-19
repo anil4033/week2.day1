@@ -110,6 +110,7 @@ public class Login {
     	 }*/
      
      WebElement leadpage = driver.findElement(By.tagName("title"));
+     System.out.println(leadpage);
      
 	}
 
